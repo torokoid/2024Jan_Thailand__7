@@ -174,7 +174,7 @@ p.note { display: none; }
 <a href="20240108_039.JPG" data-lightbox="abc"><img src="20240108_039.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_040.JPG" data-lightbox="abc"><img src="20240108_040.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_041.JPG" data-lightbox="abc"><img src="20240108_041.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">絵画教室・美術の事業が展開中</span></h2>
+<h2><span class="yellow">絵画教室 or 美術の事業が展開中</span></h2>
 <a href="20240108_042.JPG" data-lightbox="abc"><img src="20240108_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_043.JPG" data-lightbox="abc"><img src="20240108_043.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_044.JPG" data-lightbox="abc"><img src="20240108_044.JPG" alt="サンプル画像" width="900" /></a>
@@ -189,10 +189,11 @@ p.note { display: none; }
 <a href="20240108_053.JPG" data-lightbox="abc"><img src="20240108_053.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">お花を観た後は、向かい側の市場に移動</span></h2>
 <a href="20240108_054.JPG" data-lightbox="abc"><img src="20240108_054.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">マッサージ屋さんのテントもあります</span></h2>
+<h2><span class="yellow">外の道路には出店が出店中</span></h2>
 <a href="20240108_055.JPG" data-lightbox="abc"><img src="20240108_055.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">ちなみに植物園の隣は仏様の施設でした！</span></h2>
+<h2><span class="yellow">マッサージ屋さんのテントもあります</span></h2>
 <a href="20240108_056.JPG" data-lightbox="abc"><img src="20240108_056.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">ちなみに植物園の隣は仏様の施設でした！</span></h2>
 <a href="20240108_057.JPG" data-lightbox="abc"><img src="20240108_057.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_058.JPG" data-lightbox="abc"><img src="20240108_058.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">市場の中は大賑わいでした</span></h2>
