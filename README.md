@@ -270,7 +270,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2024/01/07 S.Hada</p>
+<p>Copyright 2024/01/08 S.Hada</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
