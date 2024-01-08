@@ -123,7 +123,7 @@ p.note { display: none; }
 <h1><span class="yellow"><marquee behavior="left">!!! 2024/01/08 、チェンライの植物園を訪問 !!!</marquee></span></h1>
 
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/2024Jan_Thailand/">Thailand</a>><a href="https://torokoid.github.io/2024Jan_Thailand_2/">Thailand_2</a>><a href="https://torokoid.github.io/2024Jan_Thailand_3/">Thailand_3</a>><a href="https://torokoid.github.io/2024Jan_Thailand__4/">Thailand__4</a>><a href="https://torokoid.github.io/2024Jan_Thailand__5/">Thailand__5</a>>Thailand__6</p></div>
+<p class="topicpath"><a href="https://torokoid.github.io/2024Jan_Thailand/">Thailand</a>><a href="https://torokoid.github.io/2024Jan_Thailand_2/">Thailand_2</a>><a href="https://torokoid.github.io/2024Jan_Thailand_3/">Thailand_3</a>><a href="https://torokoid.github.io/2024Jan_Thailand__4/">Thailand__4</a>><a href="https://torokoid.github.io/2024Jan_Thailand__5/">Thailand__5</a>><a href="https://torokoid.github.io/2024Jan_Thailand__6/">Thailand__6</a>>Thailand__７</p></div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -174,6 +174,7 @@ p.note { display: none; }
 <a href="20240108_039.JPG" data-lightbox="abc"><img src="20240108_039.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_040.JPG" data-lightbox="abc"><img src="20240108_040.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_041.JPG" data-lightbox="abc"><img src="20240108_041.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">絵画教室・美術の事業が展開中</span></h2>
 <a href="20240108_042.JPG" data-lightbox="abc"><img src="20240108_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_043.JPG" data-lightbox="abc"><img src="20240108_043.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_044.JPG" data-lightbox="abc"><img src="20240108_044.JPG" alt="サンプル画像" width="900" /></a>
@@ -186,13 +187,18 @@ p.note { display: none; }
 <a href="20240108_051.JPG" data-lightbox="abc"><img src="20240108_051.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_052.JPG" data-lightbox="abc"><img src="20240108_052.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_053.JPG" data-lightbox="abc"><img src="20240108_053.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">お花を観た後は、向かい側の市場に移動</span></h2>
 <a href="20240108_054.JPG" data-lightbox="abc"><img src="20240108_054.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">マッサージ屋さんのテントもあります</span></h2>
 <a href="20240108_055.JPG" data-lightbox="abc"><img src="20240108_055.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">ちなみに植物園の隣は仏様の施設でした！</span></h2>
 <a href="20240108_056.JPG" data-lightbox="abc"><img src="20240108_056.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_057.JPG" data-lightbox="abc"><img src="20240108_057.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_058.JPG" data-lightbox="abc"><img src="20240108_058.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">市場の中は大賑わいでした</span></h2>
 <a href="20240108_059.JPG" data-lightbox="abc"><img src="20240108_059.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_060.JPG" data-lightbox="abc"><img src="20240108_060.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">食べ物だけでなく、木彫りのオブジェなども多数あります</span></h2>
 <a href="20240108_061.JPG" data-lightbox="abc"><img src="20240108_061.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_062.JPG" data-lightbox="abc"><img src="20240108_062.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_063.JPG" data-lightbox="abc"><img src="20240108_063.JPG" alt="サンプル画像" width="900" /></a>
@@ -201,26 +207,40 @@ p.note { display: none; }
 <a href="20240108_066.JPG" data-lightbox="abc"><img src="20240108_066.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_067.JPG" data-lightbox="abc"><img src="20240108_067.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_068.JPG" data-lightbox="abc"><img src="20240108_068.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">女子高生たちのスタイルが、やけに細くて目立ってました</span></h2>
 <a href="20240108_069.JPG" data-lightbox="abc"><img src="20240108_069.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_070.JPG" data-lightbox="abc"><img src="20240108_070.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">白人さん達もたくさん来てます</span></h2>
 <a href="20240108_071.JPG" data-lightbox="abc"><img src="20240108_071.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_072.JPG" data-lightbox="abc"><img src="20240108_072.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">少し車で移動しますが、街中の飾り付けは派手でした</span></h2>
 <a href="20240108_073.JPG" data-lightbox="abc"><img src="20240108_073.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">中心部のデパートに行くと、そこも仏教色が強めです</span></h2>
 <a href="20240108_074.JPG" data-lightbox="abc"><img src="20240108_074.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_075.JPG" data-lightbox="abc"><img src="20240108_075.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240108_076.JPG" data-lightbox="abc"><img src="20240108_076.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_077.JPG" data-lightbox="abc"><img src="20240108_077.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">象さんも神格化されてます</span></h2>
+<a href="20240108_076.JPG" data-lightbox="abc"><img src="20240108_076.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">時計売り場ですが、シチズンとセイコーは消えてました</span></h2>
 <a href="20240108_078.JPG" data-lightbox="abc"><img src="20240108_078.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">厚底サンダルのクロックス発見！</span></h2>
 <a href="20240108_079.JPG" data-lightbox="abc"><img src="20240108_079.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">2511バーツは、1万円超えてますね〜</span></h2>
 <a href="20240108_080.JPG" data-lightbox="abc"><img src="20240108_080.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240108_081.JPG" data-lightbox="abc"><img src="20240108_081.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240108_082.JPG" data-lightbox="abc"><img src="20240108_082.JPG" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="20240108_081.JPG" data-lightbox="abc"><img src="20240108_081.JPG" alt="サンプル画像" width="900" /></a>-->
+<h2><span class="yellow">ダイソーの中は、ほぼ日本</span></h2>
 <a href="20240108_083.JPG" data-lightbox="abc"><img src="20240108_083.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240108_082.JPG" data-lightbox="abc"><img src="20240108_082.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">軽自動車サイズの電気自動車が展示されてます</span></h2>
 <a href="20240108_084.JPG" data-lightbox="abc"><img src="20240108_084.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">200万円前後の値付け</span></h2>
 <a href="20240108_085.JPG" data-lightbox="abc"><img src="20240108_085.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_086.JPG" data-lightbox="abc"><img src="20240108_086.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_087.JPG" data-lightbox="abc"><img src="20240108_087.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">晩御飯はフードコートのラーメン、50バーツ、約200円</span></h2>
 <a href="20240108_088.JPG" data-lightbox="abc"><img src="20240108_088.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">最後は王室直営店でお買い物<br>税金で作った商品なので格安です</span></h2>
 <a href="20240108_089.JPG" data-lightbox="abc"><img src="20240108_089.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_090.JPG" data-lightbox="abc"><img src="20240108_090.JPG" alt="サンプル画像" width="900" /></a>
 
