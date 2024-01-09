@@ -134,7 +134,7 @@ p.note { display: none; }
 <a href="20240108_002.png" data-lightbox="abc"><img src="20240108_002.png" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">南国を伺わせるお花たちが満開でした！</span></h2>
 <a href="20240108_001.JPG" data-lightbox="abc"><img src="20240108_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240108_002.JPG" data-lightbox="abc"><img src="20240108_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240108_052.JPG" data-lightbox="abc"><img src="20240108_052.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_003.JPG" data-lightbox="abc"><img src="20240108_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_004.JPG" data-lightbox="abc"><img src="20240108_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_005.JPG" data-lightbox="abc"><img src="20240108_005.JPG" alt="サンプル画像" width="900" /></a>
@@ -185,7 +185,7 @@ p.note { display: none; }
 <a href="20240108_049.JPG" data-lightbox="abc"><img src="20240108_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_050.JPG" data-lightbox="abc"><img src="20240108_050.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_051.JPG" data-lightbox="abc"><img src="20240108_051.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240108_052.JPG" data-lightbox="abc"><img src="20240108_052.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240108_002.JPG" data-lightbox="abc"><img src="20240108_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_053.JPG" data-lightbox="abc"><img src="20240108_053.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">外の道路にはいろんなお店が出店中</span></h2>
