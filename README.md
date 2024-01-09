@@ -241,7 +241,8 @@ p.note { display: none; }
 <a href="20240108_085.JPG" data-lightbox="abc"><img src="20240108_085.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_086.JPG" data-lightbox="abc"><img src="20240108_086.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_087.JPG" data-lightbox="abc"><img src="20240108_087.JPG" alt="サンプル画像" width="900" /></a>
-
+<h2><span class="yellow">VOLTのHP</span></h2>
+<a href="https://voltthailand.com/" target="_blank">https://voltthailand.com/</a>
 <h2><span class="yellow">晩御飯はフードコートのラーメン、50バーツ、約200円</span></h2>
 <a href="20240108_088.JPG" data-lightbox="abc"><img src="20240108_088.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">最後は王室直営店でお買い物<br>税金で作った商品なので格安です</span></h2>
