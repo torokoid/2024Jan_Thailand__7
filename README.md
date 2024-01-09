@@ -188,7 +188,7 @@ p.note { display: none; }
 <a href="20240108_052.JPG" data-lightbox="abc"><img src="20240108_052.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_053.JPG" data-lightbox="abc"><img src="20240108_053.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">外の道路には出店が出店中</span></h2>
+<h2><span class="yellow">外の道路にはいろんなお店が出店中</span></h2>
 <a href="20240108_055.JPG" data-lightbox="abc"><img src="20240108_055.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">マッサージ屋さんのテントもあります</span></h2>
 <a href="20240108_056.JPG" data-lightbox="abc"><img src="20240108_056.JPG" alt="サンプル画像" width="900" /></a>
