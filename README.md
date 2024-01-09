@@ -222,7 +222,7 @@ p.note { display: none; }
 <a href="20240108_074.JPG" data-lightbox="abc"><img src="20240108_074.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_075.JPG" data-lightbox="abc"><img src="20240108_075.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_077.JPG" data-lightbox="abc"><img src="20240108_077.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">象さんも神格化されてます</span></h2>
+<h2><span class="yellow">象さんたちの可愛いオブジェ</span></h2>
 <a href="20240108_076.JPG" data-lightbox="abc"><img src="20240108_076.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">時計売り場ですが、シチズンとセイコーは消えてました</span></h2>
 <a href="20240108_078.JPG" data-lightbox="abc"><img src="20240108_078.JPG" alt="サンプル画像" width="900" /></a>
