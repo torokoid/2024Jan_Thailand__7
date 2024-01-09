@@ -210,9 +210,9 @@ p.note { display: none; }
 <a href="20240108_067.JPG" data-lightbox="abc"><img src="20240108_067.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_068.JPG" data-lightbox="abc"><img src="20240108_068.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">女子高生たちのスタイルが、みんな細くて目立ってました</span></h2>
-<a href="20240108_069.JPG" data-lightbox="abc"><img src="20240108_069.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">他の年代は、日本人とほぼ同じような体型</span></h2>
 <a href="20240108_070.JPG" data-lightbox="abc"><img src="20240108_070.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">他の年代は、日本人とほぼ同じような体型</span></h2>
+<a href="20240108_069.JPG" data-lightbox="abc"><img src="20240108_069.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">白人さん達もたくさん来てます</span></h2>
 <a href="20240108_071.JPG" data-lightbox="abc"><img src="20240108_071.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_072.JPG" data-lightbox="abc"><img src="20240108_072.JPG" alt="サンプル画像" width="900" /></a>
