@@ -132,7 +132,7 @@ p.note { display: none; }
 <h2><span class="yellow">8日はチェンライの植物園を訪問！</span></h2>
 <a href="20240108_001.png" data-lightbox="abc"><img src="20240108_001.png" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">地図↓のクリックでGoogleMapsに飛びます！</span></h2>
-<a href="https://www.google.com/maps/place/チャルムプラキアット+75+パンサー公園/@19.9137025,99.8119851,12.43z/data=!4m6!3m5!1s0x30d70660ab4866a1:0xa310398e02e45755!8m2!3d19.9081308!4d99.8346272!16s%2Fg%2F12hkh5mp_!5m1!1e2?authuser=0&entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D" data-lightbox="abc"><img src="20240108_002.png" alt="サンプル画像" width="900" /></a>
+<a href="https://www.google.com/maps/place/チャルムプラキアット+75+パンサー公園/@19.9137025,99.8119851,12.43z/data=!4m6!3m5!1s0x30d70660ab4866a1:0xa310398e02e45755!8m2!3d19.9081308!4d99.8346272!16s%2Fg%2F12hkh5mp_!5m1!1e2?authuser=0&entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20240108_002.png" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">南国を伺わせるお花たちが満開でした！</span></h2>
 <a href="20240108_001.JPG" data-lightbox="abc"><img src="20240108_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240108_052.JPG" data-lightbox="abc"><img src="20240108_052.JPG" alt="サンプル画像" width="900" /></a>
